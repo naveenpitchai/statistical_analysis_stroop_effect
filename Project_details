@@ -1,0 +1,14 @@
+This project take a statistical look at the Stroop effect
+
+The dataset contains the time taken for participants to name the color for two conditions
+
+Congruent Condition:
+
+Color words name matches with the color in which they are printed
+
+Incongruent Condition:
+
+Color words name does not match with the color in which they are printed.
+
+
+Number of Participants - 24 participants
